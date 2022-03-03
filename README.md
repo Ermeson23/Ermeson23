@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ermeson23, I'm twenty-two years.
-- 👀 I’m interested in studying and working as a junior web developer and data alyst.
-- 🌱 I’m currently learning Computer Science, the English language and some markup and programming languages such as: Html, CSS, JS and Python.
-- 💞️ I’m looking to collaborate on early web development prjects and on database related projects as well.
+- 🌱 I’m currently a student of Computer Science at The Federal Institute of Education, Science and Technology of Ceará, I study the English language and some markup and programming languages such HTML and CSS.
 - 📫 Find me on my linkedin profile: linkedin.com/in/ermeson-ribeiro-a29121212/
 
 <!---
